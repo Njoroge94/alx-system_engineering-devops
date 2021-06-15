@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ans$((128+$TRUEKNOWLDGE))
+expr 128 + $TRUEKNOWLEDGE
