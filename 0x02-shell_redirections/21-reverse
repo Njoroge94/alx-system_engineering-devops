@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $word | rev
+echo "Reverse" | rev
