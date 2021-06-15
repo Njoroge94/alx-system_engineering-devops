@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -RlaF | grep \/$ | wc -l
+ls -ld | wc -l
