@@ -1,0 +1,4 @@
+#!/bin/bash
+a=amos
+b=kairu
+echo $a$b
